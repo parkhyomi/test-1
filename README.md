@@ -45,4 +45,4 @@
 
 [txt](주소, "부가 설명")
 
-![cat](busy cat.png)
+![햄스터](image.jpg)
