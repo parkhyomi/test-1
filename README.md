@@ -45,4 +45,4 @@
 
 [txt](주소, "부가 설명")
 
-![바쁘다 빠쁘다 고양이](busy cat.png)
+![cat](busy cat.png)
